@@ -10,5 +10,15 @@
   "license": "ISC",
   "devDependencies": {
     "node-sass": "^6.0.1"
-  }
+  },
+  "dependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jubrealguy/Breeltech.git"
+  },
+  "keywords": [],
+  "bugs": {
+    "url": "https://github.com/jubrealguy/Breeltech/issues"
+  },
+  "homepage": "https://github.com/jubrealguy/Breeltech#readme"
 }
